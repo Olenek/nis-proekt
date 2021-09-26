@@ -1,5 +1,8 @@
 # nis-proekt
 
+### Dataset
+The dataset is available here https://drive.google.com/file/d/1fs6JdJRICHHFubuhopasK5FUIcgrelHM/view?usp=sharing
+
 #### Label format
 Label is a list of `n` items, where `n` is the number of symbols at question (currently 20). 
 
